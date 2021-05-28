@@ -1,2 +1,2 @@
 # CS305-Computer-Network
-Computer Network in Sustech by Prof Jinzhang &amp; Wei Wang
+Computer Network in Sustech by Prof Jin Zhang & Wei Wang
